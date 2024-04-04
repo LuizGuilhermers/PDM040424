@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/atividade_somativa/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/atividade_somativa/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/atividade_somativa/build" />
+      <excludeFolder url="file://$MODULE_DIR$/cadastro_user/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/cadastro_user/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/cadastro_user/build" />
+      <excludeFolder url="file://$MODULE_DIR$/imc_flutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/imc_flutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/imc_flutter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_rotas_nomeadas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_rotas_nomeadas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_rotas_nomeadas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_telas/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_telas/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/projeto_telas/build" />
+      <excludeFolder url="file://$MODULE_DIR$/workflutter/.dart_tool" />
+      <excludeFolder url="file://$MODULE_DIR$/workflutter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/workflutter/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
